@@ -13,7 +13,7 @@ In 2020, a BYU grad student, Bryce E. Berrett, flew drones all over BYU's campus
 Then, in 2021, me and my coworker were tasked with making an interactive experience where people could view the model. We worked together to create "Fly Around BYU" in Unreal 5! 
 
 
-# The auto-play track and designing/implementing the target/trigger system
+#### The auto-play track and designing/implementing the target/trigger system
 
 Flying around the BYU model was easy enough, but the experience also needed to accommodate both active and passive interaction. To solve this, I implemented the auto-play track and designing/implementing the target/trigger system. This would be one of my biggest contributions to the project.
 
