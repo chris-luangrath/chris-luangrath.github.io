@@ -3,10 +3,10 @@ layout: post
 title:  "Shrineflow Prototype - Perforce"
 summary: "Unreal and Perforce"
 date:   2023-04-13 00:00:00
-preview: /assets/postpreview.png
+preview: /assets/perforce.png
 ---
 
-![Picture 1](/assets/fullsize.png)
+![Picture 1](/assets/perforce.png)
 
 Here's some impressive stuff I did:
 
