@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Shrineflow Prototype - Unreal"
+title:  "Senior Game Project - Programming and Design"
 summary: "Unreal and Design"
 date:   2023-12-03 00:00:00
 preview: /assets/postpreview.png

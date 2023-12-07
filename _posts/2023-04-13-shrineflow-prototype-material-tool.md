@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Shrineflow Prototype - Material Tool"
+title:  "Shrineflow Prototype - Pipeline"
 summary: "Unreal and Python Material Script"
 date:   2023-11-13 00:00:00
 preview: /assets/postpreview.png
