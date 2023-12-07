@@ -12,7 +12,7 @@ preview: /assets/gj23/preview.png
 [Link to Itch.io page](https://hdeck.itch.io/aurelius-archibald-astralorns-traveling-tower)
 
 
-[![Alternate Text](/assets/gj23/preview.png)]({https://vimeo.com/883782837} "Video")
+[![Video](https://i.vimeocdn.com/video/1752567678-23f34cb37c0e95f294ba8377595e692e1002255c5cedbb48122bb5766d3e691f-d_640)](https://vimeo.com/883782837 "Video")
 
 I worked with some friends to compete in the Utah Indie Game Jam 2023 competition. The theme was "parallel worlds", so we made a game about a wizard that travels between parallel worlds with different elements to solve puzzles.
 
