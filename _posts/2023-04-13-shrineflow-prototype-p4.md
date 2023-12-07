@@ -8,8 +8,6 @@ preview: /assets/perforce.png
 
 ![Picture 1](/assets/perforce.png)
 
-Here's some impressive stuff I did:
-
 * Installed Perforce Server
 * Met a representative at GDC, asked him for advice 
 * Wrote a guide for other people

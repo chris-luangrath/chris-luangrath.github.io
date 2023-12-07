@@ -3,10 +3,10 @@ layout: post
 title:  "Fly Around BYU's Campus in Unreal!"
 summary: "Unreal - Programming"
 date:   2021-12-10 00:00:00
-preview: /assets/byu-model.png
+preview: /assets/byu-model/preview.png
 ---
 
-![Picture 1](/assets/byu-model.png)
+![Picture 1](/assets/byu-model/preview.png)
 
 In 2020, a BYU grad student, Bryce E. Berrett, flew drones all over BYU's campus to [create a 3d photogrammetric model.](https://magazine.byu.edu/article/3d-byu-campus-tour/)
 
