@@ -3,7 +3,7 @@ layout: post
 title:  "Senior Game Project - Perforce"
 summary: "Unreal and Perforce"
 date:   2023-04-13 00:00:00
-preview: /assets/logos/perforce.png
+preview: /assets/logo/perforce.png
 ---
 
 <!-- ![Picture 1](/assets/perforce.png) -->
