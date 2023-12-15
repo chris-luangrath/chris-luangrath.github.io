@@ -3,7 +3,7 @@ layout: post
 title:  "Fly Around BYU's Campus in Unreal!"
 summary: "Unreal - Programming"
 date:   2021-12-10 00:00:00
-preview: /assets/byu-model/preview.png
+preview: /assets/byu-model/preview_smaller.png
 ---
 
 ![Picture 1](/assets/byu-model/preview.png)
