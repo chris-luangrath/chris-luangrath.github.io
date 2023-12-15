@@ -8,8 +8,14 @@ preview: /assets/postpreview.png
 
 ![Picture 1](/assets/fullsize.png)
 
-Here's some impressive stuff I did:
+# Shrineflow
+Every year, BYU has 2 senior projects to work on: an 
 
+## Design and Iteration
+* Making the game with the intended experience in mind
+* Going in with a game idea, changing it a lot
+
+## Programming
 * Mainly using blueprints
 * Using things like interfaces and stuff
 * Worked for 4-5 months iterating over gameplay and features
