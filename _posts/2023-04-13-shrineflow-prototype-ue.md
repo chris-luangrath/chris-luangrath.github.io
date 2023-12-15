@@ -3,10 +3,10 @@ layout: post
 title:  "Senior Game Project - Programming and Design"
 summary: "Unreal and Design"
 date:   2023-12-03 00:00:00
-preview: /assets/postpreview.png
+preview: /assets/y24/preview1-small.png
 ---
 
-![Picture 1](/assets/fullsize.png)
+![Picture 1](/assets/preview-big.png)
 
 <!-- # Shrineflow -->
 Since April 2023, I've been working on BYU's senior game capstone, a year-long project that simulates the operations of actual studios. This game, which has the temp name "Shrineflow", is an asymetrical game of chase between a ninja that hides around the map and collects objectives and a fox sorceress (kitsune) that has to catch the ninja. We'll work on it until April 2024.
