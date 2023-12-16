@@ -24,3 +24,5 @@ For every mesh, the tool:
 3. Applies textures to correlating parameters to the material instance (after checking each texture to ensure it's not too detailed/big, for reduce game size)
 
 I worked with the Environment Lead to set up a file structure and naming convention to best organize assets (inspired by the UE5 style guide). This will make it easier for artists to transition their work into Unreal as assets optimized for performance.
+
+(I'm currently reworking it, so no footage for now)
