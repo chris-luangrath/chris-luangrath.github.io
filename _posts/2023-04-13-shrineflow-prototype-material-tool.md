@@ -15,8 +15,12 @@ I worked on the animation department's senior game project in a pipeline role. S
 [Here's a link to my page talking about Perforce](https://chris-luangrath.github.io/2023/04/13/shrineflow-prototype-p4/)
 
 ## Material Tool
-We needed a way to help artists to import their models into Unreal with efficient materials. To do this, we needed to implement materials and material instances. 
+Most of the modeling team hadn't worked extensively in Unreal, so we needed a way to help them import their models into Unreal with efficient materials, specifically we wanted to use material instances instead of materials.
 
-* Worked together with Environments to make a tool that helps artists import meshes into Unreal with good materials
-* It checks the meshes in a folder, either creates a correlating parent material or finds it, then either creates a correlating material instance more finds it, then adds correlating textures. 
-* Worked with environment to set up a file structure and naming convention to organize assets.
+To do this, I wrote a tool in Unreal's Python API to automatically generate materials and material instances.
+For every mesh, the tool:
+1. Determines what parent material(s) it needs (a category, like wood, paint, stone, etc.)
+2. Create a correlating material instance (if there isn't one already, else it grabs an existing one)
+3. Applies textures to correlating parameters to the material instance (after checking each texture to ensure it's not too detailed/big, for reduce game size)
+
+I worked with the Environment Lead to set up a file structure and naming convention to best organize assets (inspired by the UE5 style guide). This will make it easier for artists to transition their work into Unreal as assets optimized for performance.
