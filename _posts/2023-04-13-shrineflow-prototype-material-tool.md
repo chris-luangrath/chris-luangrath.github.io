@@ -3,7 +3,7 @@ layout: post
 title:  "Senior Game Project - Pipeline"
 summary: "Unreal and Python Material Script"
 date:   2023-11-13 00:00:00
-preview: /assets/postpreview.png
+preview: /assets/logo/python.png
 ---
 
 <!-- ![Picture 1](/assets/fullsize.png) -->
